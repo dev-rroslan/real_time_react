@@ -14,7 +14,7 @@ defmodule RealTimeWeb.WrongLive do
   end
   def render(assigns) do
     ~H"""
-    <h1 class="text-6xl text-center">Your score: <span class="text-red-800"><%= @score %></span></h1>
+    <h1 class="text-6xl">Your score: <span class="text-red-800"><%= @score %></span></h1>
     <h2 class="text-center text-4xl font-semibold mb-8 text-indigo-700 mt-5">
     <%= @message %>
     </h2>
