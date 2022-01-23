@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="surface" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/surface/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/surface/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/surface/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/surface/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/surface/lib" />
+      <root url="file://$PROJECT_DIR$/deps/surface/priv" />
+      <root url="file://$PROJECT_DIR$/deps/surface/lib" />
+      <root url="file://$PROJECT_DIR$/deps/surface/priv" />
+    </SOURCES>
+  </library>
+</component>

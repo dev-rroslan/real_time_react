@@ -25,6 +25,7 @@ defmodule RealTimeWeb.Router do
     get "/", PageController, :index
     live "/guess", WrongLive
     live "/demo", Demo
+    live "/light", LightLive
   end
 
   # Other scopes may use custom stacks.

@@ -1,4 +1,4 @@
-defmodule RealTime.MixProject do
+ defmodule RealTime.MixProject do
   use Mix.Project
 
   def project do

@@ -5,7 +5,7 @@ config :real_time, RealTime.Repo,
   username: "postgres",
   password: "postgres",
   hostname: "localhost",
-  database: "real_time_dev",
+  database: "real_time_dev3",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 
@@ -62,7 +62,7 @@ config :real_time, RealTimeWeb.Endpoint,
       ~r"priv/gettext/.*(po)$",
       ~r"lib/real_time_web/(live|views|components)/.*(ex|sface|js)$",
       ~r"lib/real_time_web/templates/.*(eex)$",
-      ~r"priv/catalogue/.*(ex)$"
+
     ]
   ]
 

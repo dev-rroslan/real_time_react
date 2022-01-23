@@ -139,10 +139,14 @@ header {
   @apply max-w-6xl mx-auto px-6;
 }
 
+
 h1 {
   @apply text-center text-cool-gray-900 font-extrabold text-4xl mb-8;
 }
 
+h2 {
+  @apply text-center text-indigo-900 font-semibold text-2xl mb-8;
+}
 ul.examples {
   @apply mt-8 text-2xl mx-auto max-w-xs list-disc;
 
